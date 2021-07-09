@@ -23,6 +23,7 @@ Reading Data example:
 saveManager.Read_Data("C:\\SomeFolder\\save.txt");
 int i = saveManager.GetKey_int("someInt");
 textBox1.Text = "someInt=" + i;
+
 ---------------------------------------------------------------------------
 
 Others:
