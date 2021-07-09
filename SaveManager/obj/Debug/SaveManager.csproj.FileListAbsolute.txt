@@ -1,0 +1,5 @@
+C:\Users\Itona\source\repos\SaveManager\bin\Debug\SaveManager.dll
+C:\Users\Itona\source\repos\SaveManager\bin\Debug\SaveManager.pdb
+C:\Users\Itona\source\repos\SaveManager\obj\Debug\SaveManager.csproj.CoreCompileInputs.cache
+C:\Users\Itona\source\repos\SaveManager\obj\Debug\SaveManager.dll
+C:\Users\Itona\source\repos\SaveManager\obj\Debug\SaveManager.pdb
