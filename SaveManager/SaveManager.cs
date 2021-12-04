@@ -5,7 +5,7 @@ namespace SaveManager
 {
     public class SaveManager
     {
-        private string SaveData;
+        public string SaveData;
 
         public void AddKey(string keyname, int keyvalue)
         {
